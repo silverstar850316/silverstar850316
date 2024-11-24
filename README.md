@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/1.gif" width="100%" height="260"/>
+  <img src="./1.gif" width="100%" height="260"/>
 </p>
 
 <h3> Hey there👋! I'm a Senior Full-Stack Developer.</h2>
