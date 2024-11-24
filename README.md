@@ -2,9 +2,7 @@
   <img src="./1.gif" width="100%" height="260"/>
 </p>
 
-<h3> Hey there👋! I'm a Senior Full-Stack Developer.</h2>
-<h2> Currently working as a Senior Full-Stack Developer </h2>
-
+<h2> Hey there👋! I'm a Senior Full-Stack Developer.</h2>
 ## 👨🏻‍💻 &nbsp;About Me 
 
 - <b>Accomplished</b> and  <b>results-driven</b>  Full-Stack  Developer  with  <b>over 12  years  of experience</b>  in  designing,  developing,  andoptimizing  high-performance  web applications across diverse industries.
