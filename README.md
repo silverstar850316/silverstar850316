@@ -2,7 +2,7 @@
   <img src="./assets/1.gif" width="100%" height="260"/>
 </p>
 
-<h3> Hey there👋! I'm William Brown.</h2>
+<h3> Hey there👋! I'm a Senior Full-Stack Developer.</h2>
 <h2> Currently working as a Senior Full-Stack Developer </h2>
 
 ## 👨🏻‍💻 &nbsp;About Me 
