@@ -1,6 +1,6 @@
 ## Hi there 👋 Welcome to my GitHub!
 
-<img src="https://github.com/user-attachments/assets/450838d7-988b-4e9d-b625-c651a2b0da45" width="100%" />
+<img src="https://github.com/user-attachments/assets/3bcef72f-58e0-4f33-ba48-4f522700bec5" width="100%" />
 
 ## ABOUT ME
 I am a highly skilled Senior Web3 & Full-Stack Developer with a robust background in both blockchain and Web2 devlopment. I specialize in creating innovative, user-friendly applications using
@@ -26,4 +26,5 @@ My deep undeerstanding of both Web3 and Web2 technologies enables me tp integrat
 - Teamwork and Agile Methodologies
 
 ## LANGUAGES & FRAMEWORKS & TOOLS
-![Group 1](https://github.com/user-attachments/assets/e34d12f9-ef03-46a4-8169-4f331fb3444a)
+
+![Group 1](https://github.com/user-attachments/assets/2fdd0a41-3165-4499-8f08-21923b7ba941)
